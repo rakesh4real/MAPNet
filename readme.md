@@ -19,6 +19,10 @@ The manuscript can be visited via https://arxiv.org/abs/1910.12060
 * numpy
 * scipy 
 
+### Colab
+
+* [click here](https://gist.github.com/rakesh4real/6c8b9a3023ed62a603cf8cbec6efe01d)
+
 ### Usage:
 
 * Clone the repository: ```git clone https://github.com/lehaifeng/MAPNet.git```
